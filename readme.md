@@ -14,3 +14,14 @@ Desa Wista cikakak has a dynamic [website](https://desawisatacikakak.com/) which
 
 Jira Issues summary can be seen in image below
 ![Jira-KIS](/Manual/summary.issue.jpg)
+
+## Automation
+
+### Selenium
+
+I learn Selenium  as Automation Test. What have I did before with Selenium:
+
+All test case to be automated
+
+
+
